@@ -18,9 +18,9 @@ Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datec
 
 ### Klíčové ukazatele výkonnosti (KPI): 
 
-- Míra konverze: Podíl návštěvníků webu, kteří dokončí nákup
-- Míra angažovanosti zákazníků: Úroveň interakce s marketingovým obsahem (kliknutí, lajky, komentáře)
-- Hodnocení zpětné vazby zákazníků: Průměrné hodnocení získané z recenzí našich zákazníků
+- Míra konverze: Podíl návštěvníků webu, kteří dokončí nákup.
+- Míra angažovanosti zákazníků: Úroveň interakce s marketingovým obsahem (kliknutí, lajky, komentáře).
+- Hodnocení zpětné vazby zákazníků: Průměrné hodnocení získané z recenzí našich zákazníků.
 
 ### Cíle
 
