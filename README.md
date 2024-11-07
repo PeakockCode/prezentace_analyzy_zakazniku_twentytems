@@ -21,7 +21,7 @@ Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datec
 - Míra konverze: Podíl návštěvníků webu, kteří dokončí nákup
 - Míra angažovanosti zákazníků: Úroveň interakce s marketingovým obsahem (kliknutí, lajky, komentáře)
 - Hodnocení zpětné vazby zákazníků: Průměrné hodnocení získané z recenzí našich zákazníků
-- 
+
 ### Cíle
 
 #### Zvýšení míry konverze:
@@ -44,6 +44,23 @@ Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datec
 
 ## Ukázka Finálních Dashboardů
 
+Dashboardy v Power BI obsahují **celkový přehled** a dále samostatné pohledy pro každou z oblastí, tedy podrobnosti o **míře konverze**, o **sociálních médiích** i o **ecenzích zákazníků** online obchodu.
+
+- **Celkový Přehled**  
+
+<img src="assets/images/dashboards/overview.png" alt="OVerview" style="border: 0.5px solid black;"/>  
+
+- **Analýza míry konverze**  
+
+<img src="assets/images/dashboards/conversion_rate.png" alt="Conversion Rate Details" style="border: 0.5px solid black;"/>  
+
+- **Přehled o socíálních médiích**
+
+<img src="assets/images/dashboards/social_media.png" alt="Social Media Details" style="border: 0.5px solid black;"/>  
+
+- **Přehled o zpětné vazbě**
+
+<img src="assets/images/dashboards/customer_review.png" alt="Customer Review Details" style="border: 0.5px solid black;"/>  
 
 ## Analýza
 
