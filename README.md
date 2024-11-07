@@ -146,7 +146,7 @@ Cíle směřující ke zlepšení celkové zákaznické zkušenosti a podpoře r
 Doporučujeme soustředit marketingové zdroje na produkty s vysokou mírou konverze, jako jsou lyžařské boty, kajaky, surfovací prkna a další produkty s konverzními sazbami přes 10 %. Také doporučujeme spustit sezónní akce nebo personalizované kampaně v klíčových měsících, jako jsou leden a září, a dále pak před letní sezónou a Vánoci, aby bylo možné maximálně využít aktuální trendy. Dále by stálo za zvážení rozšíření nabídky zimního lyžařského vybavení během zimních měsíců, což by podpořilo prodeje a zlepšilo konverze i v méně výkonných obdobích díky cíleným akcím.
 Za zvážení také stojí zavedení věrnostního programu, který by podpořil opakované nákupy a posílil zákaznickou loajalitu.  
 
-#### Zvýšení angažovanost zákazníků:  
+#### Zvýšení angažovanosti zákazníků:  
 
 - **Optimalizace obsahu:**
 Pro zvrácení klesajícího trendu počtu zhlédnutí a nízké úrovně zapojení zákazníků doporučujeme začlenit atraktivnější formáty obsahu, jako jsou interaktivní videa. Dále navrhujeme zlepšit interakci uživatelů tím, že v příspěvcích na sociálních sítích a blogových článcích umístíte výzvy k akci (podněty pro zákazníky), zejména v obdobích s tradičně nižším zapojením, jako je září až prosinec. Zaměřte se také na zvýšení využívání platforem, jako je Instagram, což může dále podpořit zapojení zákazníků.  
