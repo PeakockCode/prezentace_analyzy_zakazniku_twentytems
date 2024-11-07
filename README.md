@@ -5,7 +5,7 @@
 ## Zadání
 
 ### Scénář:  
-Část naší společnosti, online obchod Twentytems, zažívá pokles v počtu dokončených nákupů. Navzdory spuštění několika nových online marketingových kampaní se míra konverze (tj. podíl návštěvníků online obchodu, kteří uskuteční nákup) stále snižuje. Marketingové oddělení se na nás obratilo s žádostí o pomoc při provedení podrobné analýzy za účelem identifikace oblastí pro zlepšení jejich marketingových strategií.
+Část naší společnosti, online obchod Twentytems, zažívá pokles v počtu dokončených nákupů. Navzdory spuštění několika nových online marketingových kampaní se míra konverze (tj. podíl návštěvníků online obchodu, kteří uskuteční nákup) stále snižuje. Marketingové oddělení se na nás obrátilo s žádostí o pomoc při provedení podrobné analýzy za účelem identifikace oblastí pro zlepšení jejich marketingových strategií.
 
 ### Hlavní body:  
 - Snižující se míra konverze: Máme nižší podíl návštěvníků webu, kteří dokončí nákup.
@@ -14,7 +14,7 @@
 - Vysoké marketingové náklady: Významné výdaje na marketingové aktivity nepřinášejí očekávané výsledky.
 
 ## Návrh řešení
-Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datech, musíme nejprve definovat relevantní metriky a KPI. Naším cílem je vytvořit dashboard, který zvýrazní klíčové oblasti pro zlepšení a umožní získání hlubších poznatků o našich zákaznících.
+Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datech, musíme nejprve definovat relevantní metriky a KPI. Naším cílem je vytvořit dashboard, který zvýrazní klíčové oblasti pro zlepšení a umožní získání hlubších poznatků o zákaznících.
 
 ### Klíčové ukazatele výkonnosti (KPI): 
 
