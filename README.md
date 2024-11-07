@@ -120,38 +120,38 @@ Existence pozitivních i negativních hodnocení naznačuje příležitost prom�
 
 ## Závěr
 
-### Přehled cílů
+### Přehled cílů  
+Cíle směřující ke zlepšení celkové zákaznické zkušenosti a podpoře růstu online obchodu.  
 
 #### Zvýšení míry konverze:  
 
-- **Cíl:** Identifikovat faktory, které ovlivňují míru konverze, a navrhnout možnosti pro zlepšení.
-- **Zjištění:** Zvýraznit klíčové body v zákaznické cestě, kde návštěvníci často opouštějí proces, a doporučit strategie pro vylepšení marketingového funnelu.
+- **Cíl:** Identifikovat faktory, které ovlivňují míru konverze, a navrhnout možnosti pro zlepšení.  
+- **Postup:** Zvýraznit klíčové body v zákaznické cestě, kde návštěvníci často opouštějí proces, a doporučit strategie pro vylepšení marketingového funnelu.  
 
 #### Zvýšení angažovanosti zákazníků:  
 
-- **Goal:** Determine which types of content generate the highest engagement.  
-- **Insight:** Analyze interaction rates across various marketing content formats to develop more effective content strategies.
+- **Cíl:** Určit, které typy obsahu generují nejvyšší míru zapojení zákazníků.  
+- **Postup:** Analyzovat míru interakce napříč různými formáty marketingového obsahu s cílem vytvořit účinnější strategie pro vytvářený obsah.  
 
-#### Improve Customer Feedback Scores
+#### Vylepšení hodnocení/zpětné vazby od zákazníků:  
 
-- **Goal:** Understand common themes in customer reviews and provide recommendations.  
-- **Insight:** Identify recurring positive and negative feedback to guide product and service improvements.  
+- **Cíl:** Porozumět zákazníkům (recenzím) a poskytnout doporučení.  
+- **Postup:** Identifikovat opakující se pozitivní i negativní zpětnou vazbu, aby byl online obchod schopen lépe ovlivnit (vylepšit) mínění zákazníků o produktech a službách.
 
-These goals collectively aim to enhance the overall customer experience and drive business growth.  
+### Doporučení
 
-### Recommendations
+#### Zvýšení míry konverze:  
 
-#### Boost Conversion Rates:
+- **Je třeba se zaměřit na velmi výkonné produkty (kategorie):**
+Doporučujeme soustředit marketingové zdroje na produkty s vysokou mírou konverze, jako jsou lyžařské boty, kajaky, surfovací prkna a další produkty s konverzními sazbami přes 10 %. Také doporučujeme spustit sezónní akce nebo personalizované kampaně v klíčových měsících, jako jsou leden a září, a dále pak před letní sezónou a Vánoci, aby bylo možné maximálně využít aktuální trendy. Dále by stálo za zvážení rozšíření nabídky zimního lyžařského vybavení během zimních měsíců, což by podpořilo prodeje a zlepšilo konverze i v méně výkonných obdobích díky cíleným akcím.
+Za zvážení také stojí zavedení věrnostního programu, který by podpořil opakované nákupy a posílil zákaznickou loajalitu.  
 
-- **Focus on High-Performing Product Categories:**  
-Direct marketing resources toward products that have shown strong conversion rates, including Ski Boots, Kayaks, Surfboards, and other items with conversion rates exceeding 10%. Launch seasonal promotions or personalized campaigns during key months   (such as January, September, and prior to summer and the Christmas holiday season) to take advantage of these trends. Furthermore, consider expanding the winter skiing equipment range during the winter months to boost sales and improve conversions in lower-performing months through targeted initiatives. Additionally, implementing a loyalty program could further encourage repeat purchases and foster customer retention.  
+#### Zvýšení angažovanost zákazníků:  
 
-#### Enhance Customer Engagement:
+- **Optimalizace obsahu:**
+Pro zvrácení klesajícího trendu počtu zhlédnutí a nízké úrovně zapojení zákazníků doporučujeme začlenit atraktivnější formáty obsahu, jako jsou interaktivní videa. Dále navrhujeme zlepšit interakci uživatelů tím, že v příspěvcích na sociálních sítích a blogových článcích umístíte výzvy k akci (podněty pro zákazníky), zejména v obdobích s tradičně nižším zapojením, jako je září až prosinec. Zaměřte se také na zvýšení využívání platforem, jako je Instagram, což může dále podpořit zapojení zákazníků.  
 
-- **Optimize Content Strategy:**  
-To reverse the trend of decreasing views and low levels of customer engagement, consider incorporating more appealing content formats, such as interactive videos. Additionally, enhance user interaction by optimizing the placement of calls to action in social media posts and blog articles, particularly during traditionally low-engagement periods (September to December). You might also focus on increasing the use of platforms like Instagram and TikTok to further enhance customer engagement.  
+#### Vylepšení hodnocení/zpětné vazby od zákazníků:  
 
-#### Improve Customer Feedback Scores:
-
-- **Target Mixed and Negative Feedback:**  
-Set up a feedback system to examine mixed and negative reviews for common issues. Create actionable plans to resolve these concerns. Additionally, reaching out to dissatisfied customers to address their grievances may encourage them to re-evaluate their experience, with the ultimate goal of improving average ratings to 4 and above.
+- **Zacílení na smíšenou a negativní zpětnou vazbu:**  
+Nastavit systém zpětné vazby pro analýzu smíšených a negativních recenzí s cílem identifikovat běžné problémy. Vytvořit konkrétní plány k jejich vyřešení. Dále doporučujeme oslovit nespokojené zákazníky a aktivně řešit jejich stížnosti, což by je mohlo motivovat k přehodnocení jejich zpětné vazby. Konečným cílem je dosáhnout minimálního průměrného hodnocení ve výši 4.
