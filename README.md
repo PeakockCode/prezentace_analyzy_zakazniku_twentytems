@@ -2,63 +2,65 @@
 
 <img src="assets/images/heading/1.png" alt="logo"/>  
 
-## Business Problem
+## Zadání
 
-### Story:  
-Part of our company, the online shop Twentytems, is experiencing a decline in completed purchases. Despite launching several new online marketing campaigns, the conversion rate continues to decrease. The marketing department is reaching out to us for assistance in conducting a detailed analysis to identify areas for improvement in their marketing strategies.
+### Scénář:  
+Část naší společnosti, online obchod Twentytems, zažívá pokles v počtu dokončených nákupů. Navzdory spuštění několika nových online marketingových kampaní se míra konverze (tj. podíl návštěvníků online obchodu, kteří uskuteční nákup) stále snižuje. Marketingové oddělení se na nás obratilo s žádostí o pomoc při provedení podrobné analýzy za účelem identifikace oblastí pro zlepšení jejich marketingových strategií.
 
-### Key Points:  
-- Lower Conversion Rates: A smaller portion of site visitors are completing purchases.
-- Reduced Customer Engagement: Interactions with the website and marketing materials have decreased.
-- Importance of Customer Feedback Analysis: Gaining insight into customer views on products and services is essential to boost engagement and conversions.
-- High Marketing Costs: Considerable spending on marketing efforts isn’t achieving the anticipated results.
+### Hlavní body:  
+- Snižující se míra konverze: Máme nižší podíl návštěvníků webu, kteří dokončí nákup.
+- Snížení zákaznické angažovanosti: Interakce s online obchodem a marketingovými materiály poklesly.
+- Je důležité provést analýzu zpětné vazby zákazníků: Získání náhledu na názory zákazníků na naše produkty a služby je nezbytné pro zvýšení angažovanosti a míry konverze.
+- Vysoké marketingové náklady: Významné výdaje na marketingové aktivity nepřinášejí očekávané výsledky.
 
-## Solution Idea
-To provide the marketing department with data-driven insights, we need to define relevant metrics and KPIs for effectively analyzing and comparing customer data. Our goal is to develop a dashboard that highlights key areas for improvement and enables actionable insights.
+## Návrh řešení
+Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datech, musíme nejprve definovat relevantní metriky a KPI. Naším cílem je vytvořit dashboard, který zvýrazní klíčové oblasti pro zlepšení a umožní získání hlubších poznatků o našich zákaznících.
 
-### Key Performance Indicators (KPIs):  
+### Klíčové ukazatele výkonnosti (KPI): 
 
-- Conversion Rate: The proportion of website visitors who complete a purchase.
-- Customer Engagement Rate: Level of interaction with marketing content (clicks, likes, comments).
-- Customer Feedback Score: The average rating derived from customer reviews.
+- Míra konverze: Podíl návštěvníků webu, kteří dokončí nákup
+- Míra angažovanosti zákazníků: Úroveň interakce s marketingovým obsahem (kliknutí, lajky, komentáře)
+- Hodnocení zpětné vazby zákazníků: Průměrné hodnocení získané z recenzí našich zákazníků
+- 
+### Cíle
 
-### Goals
+#### Zvýšení míry konverze:
 
-#### Boost Conversion Rates:
+- Cíl: Identifikovat faktory, které ovlivňují míru konverze a následně navrhnout způsoby pro zlepšení.
+- Související KPI: Míra konverze.
+- Poznatky: Zvýraznit kritické body v "customer journey". Zjistit, kde návštěvníci často opouštějí proces, a doporučit strategii pro optimalizaci.
 
-- Goal: Identify factors impacting the conversion rate and offer suggestions for enhancement.
-- Associated KPI: Conversion Rate.
-- Insight: Highlight critical points in the customer journey where visitors tend to abandon the process and recommend strategies to refine the conversion funnel.
+####  Zvýšení angažovanosti zákazníků:
 
-####  Enhance Customer Engagement:
+- Cíl: Určit, které typy obsahu generují nejvyšší angažovanost.
+- Související KPI: Míra angažovanosti zákazníků.
+- Poznatky: Analyzovat míru interakcí u různých formátů marketingového obsahu a vyvinout efektivnější strategie pro tvorbu obsahu.
 
-- Goal: Determine which types of content generate the highest engagement.
-- Associated KPI: Customer Engagement Rate.
-- Insight: Analyze interaction rates across various marketing content formats to develop more effective content strategies.
+#### Vylepšení hodnocení zpětné vazby zákazníků:
 
-#### Improve Customer Feedback Scores:
+- Cíl: Porozumět běžným tématům v recenzích zákazníků a poskytnout doporučení.
+- Související KPI: Hodnocení zpětné vazby zákazníků.
+- Poznatky: Identifikovat opakující se pozitivní i negativní zpětnou vazbu. Tato analýza může pomoci s vylepšováním našich produktů a služeb (a tím pádem i se zlepšením zákaznické zkušenosti).
 
-- Goal: Understand common themes in customer reviews and provide recommendations.
-- Associated KPI: Customer Feedback Score.
-- Insight: Identify recurring positive and negative feedback to guide product and service improvements.
+## Ukázka Finálních Dashboardů
 
-## Analysis and Findings
 
-### Overview 2024
+## Analýza
 
-- **Lower Conversion Rates:**  
-The conversion rate showed a strong recovery in December, reaching 10.3%, despite a notable dip to 5.1% in October. It is also important to point out that there is a notable drop in comparison to the targeted years, with the average conversion rate in 2022 being almost 11.6%, a decline to 8.55% in 2023, and a continued drop to 8.48% this year.
+### Přehled za rok 2024
 
-- **Reduced Customer Engagement:**  
-There is a drop in overall social media engagement, with all engagement metrics decreasing throughout the second half of the year.
-While clicks and likes are low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively. Additionally, compared to the previous year, we are seeing an absolute increase in all mentioned metrics.  
+- **Nižší míra konverze:**  
+Míra konverze vykázala silné oživení v prosinci, kdy dosáhla hodnoty 10,3 % (i přes výrazný pokles na 5,1 % v říjnu roku 2024). Je však důležité upozornit na výrazný pokles roční míry konverze oproti předchozímu období, především tedy oproti roku 2022. Průměrná míra konverze v roce 2022 byla totiž téměř 11,6 %. V roce 2023 pak poklesla na 8,55 % a tento rok pokračoval sestupný trend mírným poklesem na 8,48 %.  
 
-- **Consistent Customer Feedback:**  
-Customer ratings have stayed steady, with an average of approximately 3.7 over the course of the year.
-While the average rating remains stable, it falls short of the target of 4.0, indicating a need to focus on customer satisfaction, especially for products rated below 3.5.
+- **Snížená angažovanost zákazníků:**
+Došlo k poklesu celkové angažovanosti na sociálních médiích, přičemž všechny metriky angažovanosti klesaly především ve druhé polovině roku.
+I když jsou kliknutí a lajky nízké v porovnání s počty zhlédnutí, míra prokliku dosahuje hodnoty 15,37 %, což znamená, že zapojení uživatelé stále efektivně interagují. Ačkoliv je celkový trend spíše klesající, přeci jen lze zaznamenat pozitivní trend V porovnání s předchozím rokem, kdy zaznamenáváme oproti roku 2023 absolutní nárůst ve všech zmíněných metrikách (lajky, kliknutí i zhlédnutí).  
+
+- **Konzistentní hodnocení zákazníků:**
+Hodnocení zákazníků je stále nadprůměrné. Pohybuje se přibližně na hodnotě 3,7 po celý rok.
+I když průměrné hodnocení zůstává stabilní, nedosahuje cílové hodnoty 4,0, což naznačuje potřebu zaměřit se na spokojenost zákazníků, zejména u produktů, které mají hodnocení nižší než je 3,5.
 
 <img src="assets/images/presentation/1.png" alt="Overview" style="border: 0.5px solid black;"/>  
-
 
 ### Lower Conversion Rates
 
