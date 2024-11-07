@@ -70,7 +70,7 @@ Dashboardy v Power BI obsahují **celkový přehled** a dále samostatné pohled
 Míra konverze vykázala silné oživení v prosinci, kdy dosáhla hodnoty 10,3 % (i přes výrazný pokles na 5,1 % v říjnu roku 2024). Je však důležité upozornit na výrazný pokles roční míry konverze oproti předchozímu období, především tedy oproti roku 2022. Průměrná míra konverze v roce 2022 byla totiž téměř 11,6 %. V roce 2023 pak poklesla na 8,55 % a tento rok pokračoval sestupný trend mírným poklesem na 8,48 %.  
 
 - **Snížená angažovanost zákazníků:**
-Došlo k poklesu celkové angažovanosti na sociálních médiích, přičemž všechny metriky angažovanosti klesaly především ve druhé polovině roku.
+Došlo k poklesu celkové angažovanosti na sociálních sítích/médiích, přičemž všechny metriky angažovanosti klesaly především ve druhé polovině roku.
 I když jsou kliknutí a lajky nízké v porovnání s počty zhlédnutí, míra prokliku dosahuje hodnoty 15,37 %, což znamená, že zapojení uživatelé stále efektivně interagují. Ačkoliv je celkový trend spíše klesající, přeci jen lze zaznamenat pozitivní trend V porovnání s předchozím rokem, kdy zaznamenáváme oproti roku 2023 absolutní nárůst ve všech zmíněných metrikách (lajky, kliknutí i zhlédnutí).  
 
 - **Konzistentní hodnocení zákazníků:**
@@ -79,55 +79,55 @@ I když průměrné hodnocení zůstává stabilní, nedosahuje cílové hodnoty
 
 <img src="assets/images/presentation/1.png" alt="Overview" style="border: 0.5px solid black;"/>  
 
-### Lower Conversion Rates
+### Nižší míra konverze
 
-- **General Conversion Trend:**  
-Throughout the year, conversion rates varied, with the highest numbers of products converting most effectively in January and September. Especially January is the most prominent month over the targeted years. We also observed a higher conversion rate in July and December, likely due to seasonal peaks during the summer and the Christmas holidays for some products. While some products experienced strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted actions.
+- **Obecný Trend:**
+V průběhu roku byla míra konverze značně variabilní, přičemž nejvyšší počet produktů dosahoval nejlepší konverze v lednu a září. Zejména leden je nejvýraznějším měsícem ve všech analyzovaných letech. Také jsme zaznamenali vyšší míru konverze v červenci i prosinci, což pravděpodobně souvisí s sezónními vrcholy u některých produktů jak během léta, tak během vánočních svátků. I když některé produkty zažily silné sezónní vrcholy, existuje stále potenciál zlepšit prodeje v měsících s nižšími konverzí pomocí cílených opatření.  
 
-- **Lowest Conversion Month:**  
-May experienced the lowest conversion rate, approximately 4.5%, with no products notably excelling in conversion. This suggests a possible need to re-evaluate our marketing strategies or promotions during this time to enhance our performance.
+- **Nejnižší míra konverze:**
+Nejnižší míra konverze byla dosažena v květnu, kdy se pohybovala přibližně okolo 4,5 %. Tento pokles se týkal v podstatě všech zkoumaných produktů. To naznačuje možnou potřebu přehodnotit naše marketingové strategie nebo akce v tomto období.
 
-- **Highest Conversion Rates:**  
-January achieved the highest overall conversion rate of 19.6%, largely thanks to the Ski Boots, which boasted an impressive conversion rate of 150%. This reflects a robust beginning to the year, likely driven by seasonal demand and successful marketing efforts. It may be worthwhile to consider adding more winter skiing equipment to further support sales during these months, given the strong performance of the Ski Boots.  
+- **Nejvyšší míra konverze:**  
+Leden dosáhl nejvyšší celkové míry konverze, 19,6 %, především díky lyžákům, které měly impozantní míru konverze 150 %. To ukazuje na silný začátek roku, pravděpodobně podpořený sezónní poptávkou a úspěšnými marketingovými aktivitami. Možná by stálo za zvážení rozšířit naši nabídku o více zimního lyžařského vybavení, aby se podpořil prodej v těchto měsících, vzhledem ke stabilním výsledkům v lednu.  
 
 <img src="assets/images/presentation/2.png" alt="Conversion Rate comparison" style="border: 0.5px solid black;"/>  
 
-### Reduced Customer Engagement
+### Snížená angažovanost zákazníků  
 
-- **Declining Views:**  
-The number of views steadily increased throughout 2024, peaking in March and May. Unfortunately, after the end of August, we experienced a gradual decline, during which we were unable to approach the 200,000 views mark (except for September).  This reflects a significant decrease in audience engagement during the last third of the year.  
+- **Klesající počty zhlédnutí:**
+Počet zhlédnutí v roce 2024 postupně rostl a vysokých příček dosáhl postupně v březnu a květnu. Bohužel po konci srpna jsme zaznamenali postupný pokles, během kterého se nám nepodařilo přiblížit ani k hranici 200 000 zhlédnutí (s výjimkou září). To odráží výrazný pokles angažovanosti publika v poslední třetině roku 2024.
 
-- **Low Interaction Rates:**  
-Clicks and likes have consistently been low in relation to views, indicating a need for more compelling content or more effective calls to action.  
+- **Nízká míra interakcí:**  
+Kliknutí a lajky byly ve vztahu k počtu zhlédnutí trvale nízké, což naznačuje potřebu vytvářet poutavější obsah nebo přesvědčivější výzvy k zapojení publika.
 
-- **Content Type Performance:**  
-The blog content generated the highest number of views, particularly in March, May, and August. Social media and video content reached high levels in January (for both social media and video content) and in March and August (for social media only). On the other hand, it is evident that in the first half of the year, videos maintained a stable number of views, and overall, all content types were highly sought after during that period. Unfortunately, this cannot be said for the period following the summer holidays. Since then, there has been a continuous decline in views across all content. All of this indicates that marketing needs to post more compelling content or reconsider more effective ways to engage the audience.  
+- **Výkonnost jednotlivých typů obsahu:**
+**Blogový obsah** generoval nejvyšší počet zhlédnutí, zejména v březnu, květnu a srpnu. **Obsah na sociálních sítích/médiích** a **video obsah** dosáhly vysoké úrovně v lednu (pro obě kategorie) a v březnu a srpnu (pouze sociální média). Na druhou stranu je patrné, že v první polovině roku si video obsah udržoval stabilní počet zhlédnutí a celkově byly všechny typy online obchodem vytvářeného obsahu během tohoto období velmi žádané. Bohužel totéž nelze říci o období po letních prázdninách. Od té doby docházelo k neustálému poklesu zhlédnutí u všech typů obsahu. Všechny tyto skutečnosti naznačují, že marketing by měl zveřejňovat poutavější obsah nebo najít účinnější způsoby zapojení publika.
 
 <img src="assets/images/presentation/3.png" alt="Engagement Rate comparison" style="border: 0.5px solid black;"/>  
 
-### Consistent Customer Feedback
+### Konzistentní zpětná vazba od zákazníků
 
-- **Customer Ratings Distribution:**  
-Most customer reviews fall within the higher rating categories, featuring 135 reviews at 5 stars and 140 reviews at 4 stars, suggesting generally favorable feedback. In contrast, lower ratings (1 and 2 stars) represent a smaller share, with 57 reviews at 2 stars and 26 reviews at 1 star. The third largest number of customer reviews (88) reflects a neutral perspective, rated at 3 stars. Notably, the percentage of negative reviews has gradually increased, from 14.32% in 2022 to 18.61% in 2024. In contrast, the percentage of positive reviews has remained steady over the targeted period.  
+- **Rozdělení zákaznického hodnocení:**  
+Většina zákaznických recenzí spadá do vyšších kategorií hodnocení, přičemž bylo zaznamenáno 135 recenzí s 5 hvězdami a 140 recenzí se 4 hvězdami, což naznačuje obecně pozitivní zpětnou vazbu. Naopak nižší hodnocení (1 a 2 hvězdy) představuje mnohem menší podíl a to konkrétně 57 recenzí se 2 hvězdami a 26 recenzí s 1 hvězdou. Druhá nejpočetnější skupina recenzí (88) má neutrální hodnocení 3 hvězdy. Za zmínku stojí, že procento negativních recenzí se postupně zvýšilo z 14,32 % v roce 2022 na 18,61 % v roce 2024. Naopak procento pozitivních recenzí zůstalo v cílovém období stabilní.
 
-- **Sentiment Analysis:**  
-Positive sentiment dominates with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews. Smaller number of slightly positive or negative sentiments, suggesting some areas for improvement, but overall, very strong customer approval. It is certainly interesting that the sentiment text analysis categorized one of the 2-star reviews as slightly negative, suggesting an opportunity to analyze this and similar reviews to identify potential improvements in customer satisfaction.
+- **Analýza sentimentu:**
+Pozitivní sentiment převládá u 275 recenzí, což odráží obecně spokojenou zákaznickou základnu. Negativní sentiment se objevuje v 82 recenzích. Menší počet mírně pozitivních nebo negativních hodnocení poukazuje na oblasti, které by mohly být vylepšeny, ale celkově je zpětná vazba od zákazníků stabilní a převážně pozitivní. Zajímavé je, že textová analýza sentimentu označila jednu z 2hvězdičkových recenzí jako mírně negativní, což představuje/naznačuje příležitost k analýze této a podobných recenzí pro identifikaci možných zlepšení zákaznické spokojenosti.  
 
-- **Opportunity for Improvement:**  
-The existence of both positive and negative sentiments indicates that there are chances to transform these mixed experiences into more distinctly positive ones, which could enhance overall ratings. By tackling the specific issues highlighted in the mixed reviews, customer satisfaction could be improved.  
+- **Příležitost ke zlepšen:**
+Existence pozitivních i negativních hodnocení naznačuje příležitost proměnit smíšené zkušenosti ve výrazně pozitivní, což by mohlo zvýšit celkové hodnocení online obchodu. Řešením konkrétních problémů zmíněných ve smíšených recenzích by se mohla zlepšit celková spokojenost zákazníků.
 
 <img src="assets/images/presentation/4.png" alt="Customer Feedback Analysis" style="border: 0.5px solid black;"/>  
 
-## Conclusion
+## Závěr
 
-### Goals Summary
+### Přehled cílů
 
-#### Boost Conversion Rates:
+#### Zvýšení míry konverze:  
 
-- **Goal:** Identify factors impacting the conversion rate and offer suggestions for enhancement.  
-- **Insight:** Highlight critical points in the customer journey where visitors tend to abandon the process and recommend strategies to refine the conversion funnel.  
+- **Cíl:** Identifikovat faktory, které ovlivňují míru konverze, a navrhnout možnosti pro zlepšení.
+- **Zjištění:** Zvýraznit klíčové body v zákaznické cestě, kde návštěvníci často opouštějí proces, a doporučit strategie pro vylepšení marketingového funnelu.
 
-#### Enhance Customer Engagement:
+#### Zvýšení angažovanosti zákazníků:  
 
 - **Goal:** Determine which types of content generate the highest engagement.  
 - **Insight:** Analyze interaction rates across various marketing content formats to develop more effective content strategies.
