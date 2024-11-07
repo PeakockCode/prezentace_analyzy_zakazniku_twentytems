@@ -18,28 +18,28 @@ Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datec
 
 ### Klíčové ukazatele výkonnosti (KPI): 
 
-- Míra konverze: Podíl návštěvníků webu, kteří dokončí nákup.
-- Míra angažovanosti zákazníků: Úroveň interakce s marketingovým obsahem (kliknutí, lajky, komentáře).
-- Hodnocení zpětné vazby zákazníků: Průměrné hodnocení získané z recenzí našich zákazníků.
+- Míra konverze: Podíl návštěvníků webu, kteří dokončí nákup
+- Míra angažovanosti zákazníků: Úroveň interakce s marketingovým obsahem (kliknutí, lajky, komentáře)
+- Hodnocení zpětné vazby zákazníků: Průměrné hodnocení získané z recenzí našich zákazníků
 
 ### Cíle
 
 #### Zvýšení míry konverze:
 
 - Cíl: Identifikovat faktory, které ovlivňují míru konverze a následně navrhnout způsoby pro zlepšení.
-- Související KPI: Míra konverze.
+- Související KPI: Míra konverze
 - Poznatky: Zvýraznit kritické body v "customer journey". Zjistit, kde návštěvníci často opouštějí proces, a doporučit strategii pro optimalizaci.
 
 ####  Zvýšení angažovanosti zákazníků:
 
 - Cíl: Určit, které typy obsahu generují nejvyšší angažovanost.
-- Související KPI: Míra angažovanosti zákazníků.
+- Související KPI: Míra angažovanosti zákazníků
 - Poznatky: Analyzovat míru interakcí u různých formátů marketingového obsahu a vyvinout efektivnější strategie pro tvorbu obsahu.
 
 #### Vylepšení hodnocení zpětné vazby zákazníků:
 
 - Cíl: Porozumět běžným tématům v recenzích zákazníků a poskytnout doporučení.
-- Související KPI: Hodnocení zpětné vazby zákazníků.
+- Související KPI: Hodnocení zpětné vazby zákazníků
 - Poznatky: Identifikovat opakující se pozitivní i negativní zpětnou vazbu. Tato analýza může pomoci s vylepšováním našich produktů a služeb (a tím pádem i se zlepšením zákaznické zkušenosti).
 
 ## Ukázka Finálních Dashboardů
