@@ -44,7 +44,7 @@ Abychom marketingovému oddělení mohli poskytnout analýzu založenou na datec
 
 ## Ukázka Finálních Dashboardů
 
-Dashboardy v Power BI obsahují **celkový přehled** a dále samostatné pohledy pro každou z oblastí, tedy podrobnosti o **míře konverze**, o **sociálních médiích** i o **ecenzích zákazníků** online obchodu.
+Dashboardy v Power BI obsahují **celkový přehled** a dále samostatné pohledy pro každou z oblastí, tedy podrobnosti o **míře konverze**, o **sociálních médiích** i o **recenzích zákazníků** online obchodu.
 
 - **Celkový Přehled**  
 
